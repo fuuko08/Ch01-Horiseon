@@ -25,7 +25,5 @@ THEN I find a concise, descriptive title
 All links are functioning well
 CSS and HTML files are well organized
 The final page looks like the MOCK UP page
-
-### MOCK Up 
-
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/108949883/185274674-ebb40c73-9dc0-410c-b41d-7d9952e54901.png)
+```
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/108949883/185274954-98638c8f-fa08-463a-9107-9fcc9b4c6519.png)
