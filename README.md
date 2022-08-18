@@ -29,3 +29,5 @@ The final page looks like the MOCK UP page
 
 ### Mock Up 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/108949883/185274954-98638c8f-fa08-463a-9107-9fcc9b4c6519.png)
+
+Link to the page: https://fuuko08.github.io/Ch01-Horiseon/
