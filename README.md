@@ -20,3 +20,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+### Final Product Requirements
+```
+All links are functioning well
+CSS and HTML files are well organized
+The final page looks like the MOCK UP page
+
+### MOCK Up 
+
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/108949883/185274674-ebb40c73-9dc0-410c-b41d-7d9952e54901.png)
