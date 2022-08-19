@@ -1,9 +1,12 @@
+/* Universal */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* Universal Selector*/
+
+/* Element Selector*/
 body {
     background-color: #d9dcd6;
 }
@@ -49,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Element Selector */
+/* Class Selector */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,13 +72,13 @@ p {
     margin-right: 25px;
 }
 
-/* Content Selector */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* ID Selector */
 #search-engine-optimization, 
 #online-reputation-management,
 #social-media-marketing{
@@ -100,7 +103,7 @@ p {
     font-size: 36px;
 }
 
-/* Benefits Selector */
+/* Class Selector */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,7 +114,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* ID Selector */
 #benefit-lead, #benefit-brand, #benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,7 +136,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer Selector */
+/* Element Selector */
 footer {
     padding: 30px;
     clear: both;
